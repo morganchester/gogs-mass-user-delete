@@ -34,4 +34,6 @@ Place it in the same directory
 
 ### Run
 
+```bash
 ./mass-delete.sh
+```
